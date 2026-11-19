@@ -1,0 +1,14 @@
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.pyc
+.pytest_cache/
+.claude/settings.local.json
+connections.yaml
+sftp_cache/
+~$*
+.ipynb_checkpoints/
+examples/test_magic_data/
+examples/test_magic_store/
+examples/tour_*/
